@@ -1,0 +1,22 @@
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\santi\OneDrive\Escritorio\CodigoLimpio\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\ARIEL DELGADO ESCOBA\Downloads\codigolimpi0-master\codigolimpi0-master\Proyecto\obj\Debug\Proyecto.pdb
